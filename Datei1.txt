@@ -1,2 +1,3 @@
 Datei1 - Zeile1
 In dieser Datei wurde für f3 etwas hinzugefügt
+In dieser Datei wurde für f3 zusätzlich etwas hinzugefügt obwohl bereits in den develop gemerged
