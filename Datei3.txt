@@ -1,1 +1,2 @@
 Datei3 - Zeile1
+In dieser Datei wurde für f4 etwas hinzugefügt
